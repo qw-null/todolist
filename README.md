@@ -1,10 +1,13 @@
 # todolist
 
+> A Vue.js project
+
 初学Vue完成的项目：任务清单【1.添加任务 2.点击任务名称可删除】
 
 学习地址：https://www.imooc.com/learn/980
 
-> A Vue.js project
+效果图：https://github.com/qw-null/todolist/blob/master/image.png
+
 
 ## Build Setup
 
