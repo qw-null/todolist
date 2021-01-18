@@ -6,7 +6,7 @@
 
 学习地址：https://www.imooc.com/learn/980
 
-效果图：
+### 效果图：
 <img src="https://github.com/qw-null/todolist/blob/master/image.png"/>
 
 
