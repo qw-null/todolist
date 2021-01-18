@@ -6,7 +6,8 @@
 
 学习地址：https://www.imooc.com/learn/980
 
-效果图：<img src="https://github.com/qw-null/todolist/blob/master/image.png"/>
+效果图：
+<img src="https://github.com/qw-null/todolist/blob/master/image.png"/>
 
 
 ## Build Setup
